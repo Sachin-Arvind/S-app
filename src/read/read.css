@@ -1,0 +1,26 @@
+.edit{
+
+    text-decoration: none;
+    color: white;
+    background: green;
+    height: 30px;
+    width: 80px;
+    margin:10px ;
+    border-radius: 4px;
+    
+
+    /* padding: 20px; */
+}
+
+.delete{
+
+    text-decoration: none;
+    color: white;
+    background: rgb(239, 11, 11);
+    height: 30px;
+    width: 80px;
+    margin:10px ;
+    border-radius: 4px;
+
+    /* padding: 20px; */
+}
